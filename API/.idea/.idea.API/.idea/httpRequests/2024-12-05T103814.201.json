@@ -1,0 +1,13 @@
+{
+  "tarefaId": "7a8e3022-5068-4ced-8718-41dba771994f",
+  "titulo": "Estudar Node.js",
+  "descricao": "Estudar Node.js para desenvolver aplicações web",
+  "criadoEm": "2024-12-05T10:38:13.8330819-03:00",
+  "categoria": {
+    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d",
+    "nome": "Estudos",
+    "criadoEm": "2024-12-07T10:35:34.4367332"
+  },
+  "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d",
+  "status": "Não iniciada"
+}

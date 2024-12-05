@@ -1,0 +1,20 @@
+[
+  {
+    "tarefaId": "6a8b3e4d-5e4e-4f7e-bdc9-9181e456ad0e",
+    "titulo": "Concluir relatório",
+    "descricao": "Terminar relatório para reunião",
+    "criadoEm": "2024-12-12T10:35:34.436746",
+    "categoria": null,
+    "categoriaId": "bfe4e7dc-81e4-4e47-a67b-d4fbf3e124bd",
+    "status": "Não iniciada"
+  },
+  {
+    "tarefaId": "e5d4a7b9-1f9e-4c4a-ae3b-5b7c1a9d2e3f",
+    "titulo": "Passeio no parque",
+    "descricao": "Dar um passeio relaxante no parque",
+    "criadoEm": "2024-12-19T10:35:34.4367474",
+    "categoria": null,
+    "categoriaId": "39be53a2-fc09-4b6a-bafa-18a6a23c8f6e",
+    "status": "Em andamento"
+  }
+]

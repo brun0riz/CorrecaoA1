@@ -1,0 +1,22 @@
+[
+  {
+    "categoriaId": "39be53a2-fc09-4b6a-bafa-18a6a23c8f6e",
+    "nome": "Lazer",
+    "criadoEm": "2024-12-08T10:35:34.4367334"
+  },
+  {
+    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d",
+    "nome": "Estudos",
+    "criadoEm": "2024-12-07T10:35:34.4367332"
+  },
+  {
+    "categoriaId": "bfe4e7dc-81e4-4e47-a67b-d4fbf3e124bd",
+    "nome": "Trabalho",
+    "criadoEm": "2024-12-06T10:35:34.4367323"
+  },
+  {
+    "categoriaId": "6e1a12ea-a816-4c63-8698-ac70a430f8e2",
+    "nome": "Pessoal",
+    "criadoEm": "2024-12-05T10:38:54.071123"
+  }
+]

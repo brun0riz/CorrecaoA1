@@ -1,0 +1,47 @@
+[
+  {
+    "tarefaId": "2f1b7dc1-3b9a-4e1a-a389-7f5d2f1c8f3e",
+    "titulo": "Estudar Angular",
+    "descricao": "Preparar-se para a aula de Angular",
+    "criadoEm": "2024-12-08T10:35:34.4367471",
+    "categoria": null,
+    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d",
+    "status": "Não iniciada"
+  },
+  {
+    "tarefaId": "6a8b3e4d-5e4e-4f7e-bdc9-9181e456ad0e",
+    "titulo": "Concluir relatório",
+    "descricao": "Terminar relatório para reunião",
+    "criadoEm": "2024-12-12T10:35:34.436746",
+    "categoria": null,
+    "categoriaId": "bfe4e7dc-81e4-4e47-a67b-d4fbf3e124bd",
+    "status": "Não iniciada"
+  },
+  {
+    "tarefaId": "e5d4a7b9-1f9e-4c4a-ae3b-5b7c1a9d2e3f",
+    "titulo": "Passeio no parque",
+    "descricao": "Dar um passeio relaxante no parque",
+    "criadoEm": "2024-12-19T10:35:34.4367474",
+    "categoria": null,
+    "categoriaId": "39be53a2-fc09-4b6a-bafa-18a6a23c8f6e",
+    "status": "Não iniciada"
+  },
+  {
+    "tarefaId": "7a8e3022-5068-4ced-8718-41dba771994f",
+    "titulo": "Estudar Node.js",
+    "descricao": "Estudar Node.js para desenvolver aplicações web",
+    "criadoEm": "2024-12-05T10:38:13.8330819",
+    "categoria": null,
+    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d",
+    "status": "Não iniciada"
+  },
+  {
+    "tarefaId": "8a77af95-b739-43e6-a770-a839212c4e5b",
+    "titulo": "Estudar Node.js",
+    "descricao": "Estudar Node.js para desenvolver aplicações web",
+    "criadoEm": "2024-12-05T11:27:16.6495763",
+    "categoria": null,
+    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d",
+    "status": "Concluída"
+  }
+]

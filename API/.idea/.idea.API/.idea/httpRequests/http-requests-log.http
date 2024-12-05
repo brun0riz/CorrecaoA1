@@ -1,0 +1,307 @@
+﻿GET http://localhost:5000/api/tarefas/concluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113611.200.json
+
+###
+
+GET http://localhost:5000/api/tarefas/naoconcluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113606.200.json
+
+###
+
+GET http://localhost:5000/tarefas/concluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+GET http://localhost:5000/tarefas/naoconcluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+GET http://localhost:5000/tarefas/naoconcluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+GET http://localhost:5000/api/tarefas/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113228.200.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/e5d4a7b9-1f9e-4c4a-ae3b-5b7c1a9d2e3f
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113213.200.json
+
+###
+
+GET http://localhost:5000/api/tarefas/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113141.200.json
+
+###
+
+GET http://localhost:5000/tarefas/naoconcluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/2f1b7dc1-3b9a-4e1a-a389-7f5d2f1c8f3e
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113122.200.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/2f1b7dc1-3b9a-4e1a-a389-7f5d2f1c8f3e
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113106.200.json
+
+###
+
+GET http://localhost:5000/api/tarefas/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113049.200.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/7a8e3022-5068-4ced-8718-41dba771994f
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113045.200.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/7a8e3022-5068-4ced-8718-41dba771994f
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T113006.200.json
+
+###
+
+GET http://localhost:5000/api/tarefas/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112950.200.json
+
+###
+
+GET http://localhost:5000/tarefas/concluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+GET http://localhost:5000/tarefas/naoconcluidas
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/8a77af95-b739-43e6-a770-a839212c4e5b
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112820.200.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/8a77af95-b739-43e6-a770-a839212c4e5b
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112817.200.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/8a77af95-b739-43e6-a770-a839212c4e5b
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112811.200.json
+
+###
+
+GET http://localhost:5000/api/tarefas/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112745.200.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/6d091456-5a2f-4b5a-98fc-f1a3b50a627d
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112736.404.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/6d091456-5a2f-4b5a-98fc-f1a3b50a627d
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112723.404.json
+
+###
+
+POST http://localhost:5000/api/tarefas/cadastrar
+Content-Type: application/json
+Content-Length: 164
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "titulo": "Estudar Node.js",
+    "descricao": "Estudar Node.js para desenvolver aplicações web",
+    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d"
+}
+
+<> 2024-12-05T112716.201.json
+
+###
+
+PUT http://localhost:5000/api/tarefas/alterar/6d091456-5a2f-4b5a-98fc-f1a3b50a627d
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112710.404.json
+
+###
+
+GET http://localhost:5000/api/tarefas/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T112442.200.json
+
+###
+
+GET http://localhost:5000/api/categoria/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T103856.200.json
+
+###
+
+POST http://localhost:5000/api/categoria/cadastrar
+Content-Type: application/json
+Content-Length: 25
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "nome": "Pessoal"
+}
+
+<> 2024-12-05T103854.201.json
+
+###
+
+GET http://localhost:5000/api/tarefas/listar
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-05T103821.200.json
+
+###
+
+POST http://localhost:5000/api/tarefas/cadastrar
+Content-Type: application/json
+Content-Length: 164
+User-Agent: IntelliJ HTTP Client/JetBrains Rider 2024.2.7
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+    "titulo": "Estudar Node.js",
+    "descricao": "Estudar Node.js para desenvolver aplicações web",
+    "categoriaId": "6d091456-5a2f-4b5a-98fc-f1a3b50a627d"
+}
+
+<> 2024-12-05T103814.201.json
+
+###
+
